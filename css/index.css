@@ -1,0 +1,78 @@
+.bg-header {
+    background-color: #343A40;
+}
+
+.navbar .navbar-brand, .navbar .nav-link {
+    color: #fff;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+/* -------------------------------------- */
+
+.bg-grey {
+    background-color: #E9ECEF;
+}
+
+.jumbotron .container{
+    padding-top: 72px;
+    padding-bottom: 50px;
+}
+
+.jumbotron .discription {
+    margin-bottom: 16px;
+    line-height: 19px;
+}
+
+/* -------------------------------------- */
+
+.content .container{
+    padding-top: 32px;
+    padding-bottom: 73px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-profile .card-title{
+    font-weight: 400;
+}
+
+.card-header {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+table {
+    border-radius: 4px;
+
+}
+
+td:not(:first-child) {
+    border-left: none;
+}
+
+.profile {
+    margin-bottom: 32px;;
+}
+
+tr {
+    align-items: center;
+}
+/* -------------------------------------- */
+
+.footer .container {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.grey {
+    color: #6C757D;
+}
